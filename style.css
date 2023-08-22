@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.primera{
+    border: 3px solid red;
+    background: blue;
+}
+.cabecera{
+    height: 10px;
+    width: 50px;
+    background-color: black;
+    display: flex;
+}
