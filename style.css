@@ -4,12 +4,20 @@
 
 }
 .primera{
-    border: 3px solid red;
-    background: blue;
+    background: rgb(0, 229, 255);
 }
-.cabecera{
-    height: 10px;
-    width: 50px;
+.cabecera {
     background-color: black;
-    display: flex;
+    position: fixed;
+    width: 100%;
+
+    
+}
+
+.logo {
+    width: 100px;
+
+}
+.rayas {
+    width: 50px;
 }
